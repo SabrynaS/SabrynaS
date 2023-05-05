@@ -1,7 +1,7 @@
-- 👋 Hi, I’m  Sabryna Rodrigues Araújo
+- 👋 Olá, Eu sou Sabryna Rodrigues Araújo
 - 🌱 Sou estudante de Ciência da Computação na UFMA  
-- 💞️ I’m looking to  aprender e me aperfeiçoar na programação
-- 📫 How to reach me ...  sabrynarodrigues1313@gmail.com
+- 💞️ Estou procurando aprender e me aperfeiçoar na programação
+- 📫 Como se comunicar comigo...  sabrynarodrigues1313@gmail.com
 
 <!---
 SabrynaS/SabrynaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
